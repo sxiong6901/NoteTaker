@@ -6,7 +6,7 @@
   * [Installation](#Installation)
   * [License](#license)
   * [Contributors](#Contributors)
-  * [Tests](#Test)
+  * [Preview](#Preview)
   * [Questions](#Questions)
 
   ## Description:
