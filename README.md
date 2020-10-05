@@ -1,4 +1,4 @@
-# Title :: Note Taker
+# Title : Note Taker
 
   ## Table of Contents
   * [Title](#Title)
