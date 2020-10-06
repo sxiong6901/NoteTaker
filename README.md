@@ -32,7 +32,7 @@
    Direct link to application: https://note-taker-hw1.herokuapp.com/
 
   ## License
-  MIT License - URL: https://github.com/sxiong6901/GoodReadMeGenerator/blob/master/LICENSE
+  MIT License - URL: https://github.com/sxiong6901/NoteTaker/blob/main/LICENSE
   
   ## Contributors
   https://github.com/sxiong6901
