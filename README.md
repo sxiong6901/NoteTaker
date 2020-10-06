@@ -29,6 +29,8 @@
 
   Run npm install to install all dependencies. To use the application locally, run node server.js in your CLI, and then open http://localhost:3000 in your preferred browswer. The Note Taker app is live on Heroku for you to use as well.
 
+   Direct link to application: https://note-taker-hw1.herokuapp.com/
+
   ## License
   MIT License - URL: https://github.com/sxiong6901/GoodReadMeGenerator/blob/master/LICENSE
   
@@ -36,9 +38,8 @@
   https://github.com/sxiong6901
   
   ## Preview
-  ![Testing](https://github.com/sxiong6901/GoodReadMeGenerator/blob/master/assets/Generating%20README.md%20File.gif)
+  ![Testing](https://github.com/sxiong6901/NoteTaker/blob/main/assets/Test.gif)
   
-  Direct link to application: https://note-taker-hw1.herokuapp.com/
-
+ 
   ## Questions
   If you have any questions, contact sxiong6901 on GitHub.
