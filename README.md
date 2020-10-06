@@ -38,7 +38,7 @@
   ## Preview
   ![Testing](https://github.com/sxiong6901/GoodReadMeGenerator/blob/master/assets/Generating%20README.md%20File.gif)
   
-  Direct link to application: https://note-taker-hw1.herokuapp.com/notes
+  Direct link to application: https://note-taker-hw1.herokuapp.com/
 
   ## Questions
   If you have any questions, contact sxiong6901 on GitHub.
